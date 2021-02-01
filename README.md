@@ -12,13 +12,13 @@ Gulp starter kit to get you started on your project as fast as possible
 ### 1. Clone Repo
 
 ```
-git clone https://github.com/Omarzikry/gulp-starter-kit.git
+git clone https://github.com/Omarzikry/magebit-task1.git
 ```
 
 ### 2. Go inside cloned repo
 
 ```
-cd gulp-starter-kit
+cd magebit-task1
 ```
 
 ### 3. Install all dependencies (make sure nodejs with npm is installed on your machine)
